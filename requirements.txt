@@ -21,7 +21,7 @@ grpcio==1.22.0
 hyperlink==19.0.0
 idna==2.8
 incremental==17.5.0
-git+git://github.com/hernan4444/inplace_abn#egg=inplace_abn
+inplace_abn==1.1.0
 ipykernel==5.1.0
 ipython==7.2.0
 ipython-genutils==0.2.0
